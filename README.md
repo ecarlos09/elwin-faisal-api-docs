@@ -19,9 +19,11 @@ This API will allow you to access, store and update information about households
 
 Please continue reading for more information on how to use our fabulous API!
 
+***
+
 ### Data storage
 
-First of all, data stored by this API will be formatted as a JSON object
+First of all, data stored by this API will be formatted as a JSON object in a non-relational database.
 
 ```
 const households = [
@@ -44,3 +46,23 @@ const households = [
     }
 ]
 ```
+
+#### Schema
+
+Please see the linked Word document for our Schema:
+
+https://docs.google.com/document/d/1B5zyBNgKt3xFvtHgKU0JBU_mL2O9QfMqdnQEyxcUTQs/edit?usp=sharing
+
+***
+
+### Paths
+
+Please see the linked Word document for our routing:
+
+https://docs.google.com/document/d/1B5zyBNgKt3xFvtHgKU0JBU_mL2O9QfMqdnQEyxcUTQs/edit?usp=sharing
+
+***
+
+We hope you have an amazing time using our API!
+
+Elwin and Faisal
