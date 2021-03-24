@@ -23,7 +23,8 @@ Please continue reading for more information on how to use our fabulous API!
 
 First of all, data stored by this API will be formatted as a JSON object
 
-```const households = [
+```
+const households = [
     {
         householdID: 001,
         owner: {
